@@ -1,0 +1,68 @@
+https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-uno-project-super-starter-kit
+
+
+psu
+joystick
+ultrasonic
+relay
+DHT
+IR Receiver
+DC Motor
+Breadboard shield
+Stepper motor Driver
+Leds
+IR Led
+Light Depemdant Resistors
+Buzzer
+5x Switches
+7 Segment display
+Breadboard
+Battery
+USB Lead
+Trim pot
+Resistors
+IR Remote
+leads
+Servo
+Stepper motor
+LCD Display 1602
+
+--------------------------------------------------------------
+Component listing:
+
+1pcs UNO R3 Controller Board
+1pcs LCD1602 Module ( with pin header)
+1pcs Breadboard Expansion Board
+1pcs Power Supply Module (WARNING: Pls. do not use the voltage higher than 9V)
+1pcs Joystick Module
+1pcs IR Receiver
+1pcs Servo Motor (SG90)
+1pcs Stepper Motor
+1pcs ULN2003 Stepper Motor Driver Board
+1pcs Ultrasonic Sensor
+1pcs DHT11 Temperature and Humidity Module
+1pcs 9V Battery with DC
+1pcs 65 Jumper Wire
+1pcs USB Cable
+1pcs Active Buzzer
+1pcs Passive Buzzer
+1pcs Potentiometer
+1pcs 5V Relay
+1pcs Breadboard
+1pcs Remote
+1pcs Tilt Switch 5pcs Button (small)
+1pcs 1 digit 7-segment Display
+1pcs 4 digit 7-segment Display
+5pcs Yellow LED
+5pcs Blue LED
+5pcs Green LED
+5pcs Red LED
+1pcs RGB LED
+2pcs Photo resistor
+1pcs Thermistor
+2pcs Diode Rectifier (1N4007)
+2pcs NPN Transistor (PN2222)
+1pcs IC 74HC595
+120pcs Resistor
+10pcs Female-to-male DuPont Wire.
+
